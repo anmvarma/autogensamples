@@ -4,7 +4,7 @@ import asyncio
 
 
 financial_tasks = [
-    """What are the current stock prices of NVDA and TESLA, and how is the performance over the past month in terms of percentage change?""",
+    """Come up with a plan to analyse the current stock proice of MSFT. E.g. What are the current stock prices of MSFT, and how is the performance over the past month in terms of percentage change?""",
     """Investigate possible reasons of the stock performance.""",
     """Plot a graph comparing the stock prices over the past month.""",
 ]
